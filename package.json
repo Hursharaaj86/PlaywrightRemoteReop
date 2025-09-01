@@ -1,0 +1,22 @@
+{
+  "name": "playwright-ai-project",
+  "version": "1.0.0",
+  "main": "HurshaTrial.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hursharaaj86/PlaywrightRemoteReop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hursharaaj86/PlaywrightRemoteReop/issues"
+  },
+  "homepage": "https://github.com/Hursharaaj86/PlaywrightRemoteReop#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
